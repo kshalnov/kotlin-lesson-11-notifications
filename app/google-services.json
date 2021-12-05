@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847333958354",
+    "project_id": "lesson-kotlin-10",
+    "storage_bucket": "lesson-kotlin-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847333958354:android:f58b106d12e15a11e4030b",
+        "android_client_info": {
+          "package_name": "ru.gb.course1.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847333958354-kdbbgnue91vges5dmg4hil6sp5gou4g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7TKmlZt1LbhKCJGcIrZAFnplsaazLJRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847333958354-kdbbgnue91vges5dmg4hil6sp5gou4g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
